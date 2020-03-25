@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Listado">
+    <item
+        android:id="@+id/action_eliminar_primero"
+        android:orderInCategory="100"
+        android:title="eliminar la primera"/>
+
+    <item
+        android:id="@+id/action_orderar_nombre"
+        android:orderInCategory="100"
+        android:title="ordenar por nombre"/>
+    <item
+        android:id="@+id/action_ordenar_genero"
+        android:orderInCategory="100"
+        android:title="ordenar por genero" />
+    <item
+        android:id="@+id/action_invertir"
+        android:orderInCategory="100"
+        android:title="invertir"/>
+
+</menu>

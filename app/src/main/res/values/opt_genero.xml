@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>Aventura</item>
+        <item>Comedia</item>
+        <item>Terror</item>
+        <item>Musicales</item>
+        <item>Accion</item>
+        <item>Drama</item>
+    </string-array>
+</resources>
